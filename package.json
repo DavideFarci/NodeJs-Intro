@@ -4,7 +4,8 @@
   "description": "primo progetto con node e npm",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "app": "nodemon app.js"
   },
   "keywords": [
     "node",
